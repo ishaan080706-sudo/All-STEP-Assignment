@@ -23,7 +23,7 @@ class LibraryBook
         System.out.println(title+" | "+isbn+" | Catalogued: true");
     }
 }
-public class Main
+public class Q1
 {
     public static void main(String[] args)
     {
