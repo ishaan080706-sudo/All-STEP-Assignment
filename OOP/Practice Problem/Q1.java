@@ -1,5 +1,5 @@
 import java.util.*;
-class Q1
+class PlacementRecord
 {
     String studentName;
     String company;
@@ -15,7 +15,7 @@ class Q1
         System.out.println(studentName+" -> "+company+" @ "+packageLpa+" LPA");
     }
 }
-public class Main
+public class Q1
 {
     public static void main(String[] args)
     {
