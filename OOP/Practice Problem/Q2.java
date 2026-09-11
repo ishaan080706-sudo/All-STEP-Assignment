@@ -1,5 +1,5 @@
 import java.util.*;
-class Q2
+class MessWallet
 {
     private double balance;
     public MessWallet(double balance)
@@ -45,7 +45,7 @@ class Q2
         return balance;
     }
 }
-public class Main
+public class Q2
 {
     public static void main(String[] args)
     {
