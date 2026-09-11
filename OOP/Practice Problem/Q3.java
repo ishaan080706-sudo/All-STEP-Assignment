@@ -1,5 +1,5 @@
 import java.util.*;
-class Q3
+class Course
 {
     String code;
     String title;
@@ -21,7 +21,7 @@ class Q3
         return credits+labCredits;
     }
 }
-public class Main
+public class Q3
 {
     public static void main(String[] args)
     {
