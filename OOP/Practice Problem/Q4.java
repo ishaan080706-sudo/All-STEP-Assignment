@@ -1,5 +1,5 @@
 import java.util.*;
-class Q4
+class IdCard
 {
     String name;
     int booksIssued;
@@ -9,7 +9,7 @@ class Q4
         this.booksIssued=booksIssued;
     }
 }
-public class Main
+public class Q4
 {
     public static void main(String[] args)
     {
